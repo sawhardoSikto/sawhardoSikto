@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)](https://ww25.rishavchanda.io/?subid1=20250823-1633-40b0-aa4e-4bd9e72fc496)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGHjxA5qO44tw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353305982?e=1758758400&v=beta&t=DlLXV3jJx9k1mx88hp8XmHpA3y45CyL2QMCIdfbsxQQ)](https://ww25.rishavchanda.io/?subid1=20250823-1633-40b0-aa4e-4bd9e72fc496)
 <h1 align="center">Hi 👋, I'm Sawhardo Biswas Sikto</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
