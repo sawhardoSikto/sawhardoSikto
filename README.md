@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawhardosikto&label=Profile%20views&color=0e75b6&style=flat" alt="sawhardosikto" /> </p>
 
-- 🔭 I’m currently working on **Social Media Dashboard**
+- 🔭 I’m currently working on **E-Commerce web API**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at (https://sites.google.com/view/sawhardo-biswas-sikto)
 
