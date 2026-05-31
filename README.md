@@ -20,7 +20,7 @@ var developer = new Developer
     Location    = "Dhaka, Bangladesh 🇧🇩",
     University  = "American International University-Bangladesh (AIUB)",
     
-    CurrentWork = "Building E-Commerce Web API with .NET",
+    CurrentWork = "Community-Fund-Management-SystemT",
     Learning    = "NestJS & Modern Backend Architecture",
     
     Interests   = new[] { "Web APIs", "Clean Architecture", "System Design" },
